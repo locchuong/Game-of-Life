@@ -1,6 +1,8 @@
 # Game-of-Life
 ## Description
 The main focus of this repo is to demonstrate a cellular automaton made by British mathematician John Horton Conway. Despite the name, The Game of Life, does not have any players. It is a zero-player game determined by its initial state requiring no further input from the user. The game is made using p5.js, a JavaScript library, and some simple html and css.
+## How to run
+In order to "play" my Game of Life, simply open the url [here](https://locchuong1999.github.io/Game-of-Life/)
 ## The Game of Life Rules
 The Game of Life is an infinite (finite in my rendition), 2D grid of square cells in either dead or alive states. Each cell interacts with its eight surrounding neighbors according to the ruleset below. At each step in time, the following ruleset is applied
 1. Any live cell with less than two live neighbour dies, as though if by underpopulation
