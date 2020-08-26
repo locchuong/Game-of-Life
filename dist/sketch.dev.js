@@ -13,7 +13,7 @@ var rows; // Number of rows in pixArray & npixArr
 var npixArr; // The new pixel array for the next generation
 
 /** setup()
- *  Description: Initializes framerate, canvas, and pixel arrays
+ *  Description: Initializes framerate, canvas, and pixel arrays.
  */
 
 function setup() {
